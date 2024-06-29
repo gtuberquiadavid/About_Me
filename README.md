@@ -13,10 +13,9 @@ Analista de datos altamente motivada con habilidades sólidas en el manejo, proc
 -->
 
 ## Skills:
-- AutoCAD 2020.
-- Manejo de paquete office (Excel, Access, Project, Visio, PowerPoint, Word).
-- Aplicación de Prezi.
-- Python (pandas, NumPy, pymystem, NLTK)
-- SQL
-- Visualización (seaborn, Matplotlib, plotly)
-- Tableau
+![AutoCAD](https://img.shields.io/badge/AutoCAD2020-3DDC84?style=for-the-badge&logo=AutoCAD&logoColor=white&labelColor=101010)</br>
+![Office](https://img.shields.io/badge/Office2023-0095D5?style=for-the-badge&logo=Office2023&logoColor=white&labelColor=101010)</br>
+![Prezi](https://img.shields.io/badge/Prezi-3DDC84?style=for-the-badge&logo=Prezi&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
+![SQL](https://img.shields.io/badge/SQL-3DDC84?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)</br>
+![Tableau](https://img.shields.io/badge/Tableau-3DDC84?style=for-the-badge&logo=TableauL&logoColor=white&labelColor=101010)</br>
