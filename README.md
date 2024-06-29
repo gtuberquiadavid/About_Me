@@ -11,3 +11,12 @@ Analista de datos altamente motivada con habilidades sólidas en el manejo, proc
 - Donde encontrarme:
 - [linkedin](www.linkedin.com/in/gtuberquiadavid)
 -->
+
+## Skills:
+- AutoCAD 2020.
+- Manejo de paquete office (Excel, Access, Project, Visio, PowerPoint, Word).
+- Aplicación de Prezi.
+- Python (pandas, NumPy, pymystem, NLTK)
+- SQL
+- Visualización (seaborn, Matplotlib, plotly)
+- Tableau
