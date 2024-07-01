@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/gtuberquiadavid/gtuberquiadavid/blob/main/Gustavo%20Adolfo%20Tuberquia%20David.png" width="800"/>
 <!--
 **gtuberquiadavid/gtuberquiadavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
